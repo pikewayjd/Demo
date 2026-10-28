@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 3
   tags:
   - Projectile
+  - GalagaPlayer
+  - Enemy
   layers:
   - Default
   - TransparentFX
